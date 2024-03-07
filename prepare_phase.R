@@ -1,0 +1,3 @@
+ used the Cyclistic’s historical trip data to analyze and identify trends. Download the data set at https://divvy-tripdata.s3.amazonaws.com/index.html. (Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and will enable me to answer the business question. The data has been made available by Motivate International Inc. under this license.) This is public data that you can use to explore how different customer types are using Cyclistic bike.
+ 
+ The cyclistic data set is organised into different tables for different months of each year. Each table is made up of about 13 colums and 3,489,748 rows. Due to the large size of the data, I considered Rstudio the best tool to use.
